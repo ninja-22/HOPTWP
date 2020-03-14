@@ -43,3 +43,17 @@ def checker():
         print("Try again")
 
 checker()
+
+print(sorted(dict1.keys()))             # sort by keys
+print(sorted(dict1.items()))            # sort by keys (list tuple output)
+try:
+    b = sorted(dict1.values())              # sort by values, throws TypeError in this case because the values list contains tuples (with numeric data types) and strings. Cannot sort the two
+except:
+    TypeError
+
+del dict1["Occupation"]                 # use del and key name to delete specific key-value pair
+print(dict1)
+
+dict1.pop('Location')           # delete key-value pair using pop(). Pass the key as an argument.
+print(dict1)
+
