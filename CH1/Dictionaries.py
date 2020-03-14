@@ -35,3 +35,11 @@ print(dict1.items())                           # used to iterate over key-value 
 list(dict1.items())                         # convert the dict_items class into a list
 print(f"The dictionary items class is of type: {type(list(dict1.items()))} and the full list is: {list(dict1.items())}")
 
+def checker():
+    if "Name" in dict1:
+        print("True")
+        print(f'The value is: {dict1.get("Name")}')
+    else:
+        print("Try again")
+
+checker()
