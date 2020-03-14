@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be824128-a2f8-4774-b20f-513084d07714" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YUFmCydmmu0hYYDpOMqWbqRY4G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+  </component>
+  <component name="RunManager" selected="Python.RemoveFromList">
+    <configuration name="CopyFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CH1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CopyFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CopyList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CH1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CopyList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RemoveFromList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CH1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveFromList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RemoveFromList" />
+        <item itemvalue="Python.CopyFunction" />
+        <item itemvalue="Python.CopyList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be824128-a2f8-4774-b20f-513084d07714" name="Default Changelist" comment="" />
+      <created>1582989422493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582989422493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom" timestamp="1583011665731">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="194" key="GridCell.Tab.0.bottom/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582993278011" />
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom/0.23.1440.877/-3840.-504.3840.2068@0.23.1440.877" timestamp="1583011665731" />
+    <state width="1379" height="242" key="GridCell.Tab.0.center" timestamp="1583011665730">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="194" key="GridCell.Tab.0.center/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582993278011" />
+    <state width="1379" height="242" key="GridCell.Tab.0.center/0.23.1440.877/-3840.-504.3840.2068@0.23.1440.877" timestamp="1583011665730" />
+    <state width="1379" height="242" key="GridCell.Tab.0.left" timestamp="1583011665730">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="194" key="GridCell.Tab.0.left/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582993278010" />
+    <state width="1379" height="242" key="GridCell.Tab.0.left/0.23.1440.877/-3840.-504.3840.2068@0.23.1440.877" timestamp="1583011665730" />
+    <state width="1379" height="242" key="GridCell.Tab.0.right" timestamp="1583011665730">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="194" key="GridCell.Tab.0.right/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582993278011" />
+    <state width="1379" height="242" key="GridCell.Tab.0.right/0.23.1440.877/-3840.-504.3840.2068@0.23.1440.877" timestamp="1583011665730" />
+    <state width="1379" height="242" key="GridCell.Tab.1.bottom" timestamp="1583011665732">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="242" key="GridCell.Tab.1.bottom/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582992888053" />
+    <state width="1379" height="242" key="GridCell.Tab.1.bottom/0.23.1440.877/-3840.-504.3840.2068@0.23.1440.877" timestamp="1583011665732" />
+    <state width="1379" height="242" key="GridCell.Tab.1.center" timestamp="1583011665731">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="242" key="GridCell.Tab.1.center/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582992888052" />
+    <state width="1379" height="242" key="GridCell.Tab.1.center/0.23.1440.877/-3840.-504.3840.2068@0.23.1440.877" timestamp="1583011665731" />
+    <state width="1379" height="242" key="GridCell.Tab.1.left" timestamp="1583011665731">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="242" key="GridCell.Tab.1.left/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582992888052" />
+    <state width="1379" height="242" key="GridCell.Tab.1.left/0.23.1440.877/-3840.-504.3840.2068@0.23.1440.877" timestamp="1583011665731" />
+    <state width="1379" height="242" key="GridCell.Tab.1.right" timestamp="1583011665731">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1379" height="242" key="GridCell.Tab.1.right/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582992888052" />
+    <state width="1379" height="242" key="GridCell.Tab.1.right/0.23.1440.877/-3840.-504.3840.2068@0.23.1440.877" timestamp="1583011665731" />
+    <state x="397" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1583096076290">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808/-3840.-504.3840.2137@0.23.1440.808" timestamp="1582989459199" />
+    <state x="397" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1583096076290" />
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1582992845576">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811/-3840.-504.3840.2137@0.23.1440.811" timestamp="1582992845576" />
+  </component>
+</project>
