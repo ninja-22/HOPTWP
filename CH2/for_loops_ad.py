@@ -26,4 +26,13 @@ for key, value in my_dict.items():
     print(f"Key: {key}, Value: {value}")
 
 print("----- Iterate over tuples -----")
-my_tuple = ()
+my_tuple = (1, 2, 3, 4)
+for value in my_tuple:
+    print(value)
+
+print("----- Iterate over set -----")
+my_set = {2, 2, 3, 3, 5, 5}                 # a set is a collection of unordered and unindexed elements. You cannot access the element in a set by an index since it is unordered. need to use for loop
+for value in my_set:
+    print(value)
+
+print(2 in my_set)              # tells you if a particular value is in a set. Prints a Boolean value, which in this case is True
