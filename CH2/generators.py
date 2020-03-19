@@ -16,3 +16,14 @@ def driver():
     print("----------------------------")
     next(v)
     print("----------------------------")
+
+def driver_for():
+    for a in genmethod():
+        print(f"A is: {a}")
+        print("----------------------------")
+
+# driver_for() code is a better way to achieve what driver() does and is much cleaner
+
+genmethod()
+driver()
+driver_for()
