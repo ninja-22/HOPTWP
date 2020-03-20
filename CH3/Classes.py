@@ -21,6 +21,23 @@ class Employee():
                 print(f"Salary: {self.Salary}")
                 print("-------------------------------------------------")
 
+class Programmer():
+        def __init__(self, name, id_gen, lang = None,
+                db = None, projects = None, **add_skills):
+                self.D_id = None
+                self.languages = lang
+                self.db = db
+                self.projects = projects
+                self.add_skills = add_skills
+                super().__init__(name, id_gen)
+
+        def printSkillDetails(self):
+                print(f"ID: {self.D_id}")
+                print(f"Languages: {self.languages}")
+                print(f"Databases: {self.db}")
+
+
+
 emp1 = Employee("Uthman", Id_Generator)
 emp1.Salary = "£70,000"
 emp1.D_id = 1
