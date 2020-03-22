@@ -1,0 +1,3 @@
+Hello, Python is so cool 
+Python is aswesome 
+It is a great language 
