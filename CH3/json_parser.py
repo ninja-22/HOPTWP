@@ -13,7 +13,7 @@ class JsonParse():
             json_data = json.loads(json_file.read())
         if json_data:
             print(f"Type of file loaded is: {type(json_data)}")
-            employee_root = json_data.get("Employees", None)
+            employee_root = json_data.get("employees", None)
             if employee_root:
                 print(f'Department: {employee_root["department"]}')
                 print(f'Location: {employee_root["location"]}')

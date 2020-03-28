@@ -30,7 +30,7 @@ class XMLParser():
         print("\n\nPrinting node details specifying subtags: ")
         for employee in root.findall("employee"):               # in employee tag
             print("\n--------------------------------------------")
-            print(f'\t\tName: {employee.find("name").text}')        # search for "name" tag that is a subtag of the employee tag
+            print(f'\t\tName: {employee.find("name").text}')        # search for "name" tag that is a subtag of the employee tag, print its value
             print(f'\t\tAge: {employee.find("age").text}')
             print(f'\t\tSalary: {employee.find("salary").text}')
             print(f'\t\tManager ID: {employee.find("manager_id").text}')

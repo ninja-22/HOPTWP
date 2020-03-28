@@ -14,8 +14,8 @@
                 "doj": "01/09/2015",
                 "id": 2,
                 "name": "Test",
-                "salary": 44000,
-                "slab": "A"
+                "salary": 20000,
+                "slab": "B"
             }
         ],
         "department": "IT",
